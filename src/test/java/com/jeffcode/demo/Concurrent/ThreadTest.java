@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Optional;
 import java.util.stream.IntStream;
 
-public class JoinTest {
+public class ThreadTest {
 
     // 在未使用join的情况下，这两个线程肯定是交替打印
     @Test
